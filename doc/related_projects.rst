@@ -316,6 +316,11 @@ Domain specific packages
 
 - `AstroML <https://www.astroml.org/>`_  Machine learning for astronomy.
 
+- `philanthropy <https://philanthropy-project.github.io/PhilanthroPy/>`_
+  Leakage-safe estimators and transformers for nonprofit and hospital fundraising
+  analytics: donor propensity, lapse, planned giving, wealth-screening imputation,
+  and walk-forward fiscal-year cross-validation.
+
 Translations of scikit-learn documentation
 ------------------------------------------
 
